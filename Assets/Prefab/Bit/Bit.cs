@@ -12,7 +12,7 @@ SpriteRenderer spriteRenderer;
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
-        spriteRenderer.color = Color.black;
+   
         
     }
 
@@ -20,10 +20,8 @@ SpriteRenderer spriteRenderer;
     {
         if (state)
         {
-            spriteRenderer.color = Color.green;
-        }
-
-        else
+            spriteRenderer.color = Color.blue;
+        } else
         {
             spriteRenderer.color = Color.red;
         }
