@@ -53,5 +53,9 @@ public class Byte : MonoBehaviour
 
             
     }
+    public  void setValue(int MyValue)
+    {
+        //
+    }
 }
 
