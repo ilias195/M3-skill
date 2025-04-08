@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 427c777563fedeb4a9aaf4f07a4d286f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240.66666
+        width: 89.25
+        height: 120.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803d383de63ad6145b53f1aa9b7b1ad6
+      internalID: 36210310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 240.66666
+        width: 89.25
+        height: 120.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac537dca87a5e994fa75da80bd06d8f8
+      internalID: -1684146462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 240.66666
+        width: 89.25
+        height: 120.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7165ffc73d16b4fba84b1413d6d32e
+      internalID: -1451537551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 240.66666
+        width: 89.25
+        height: 120.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60b8a7fc05d18b4aa707e63b58152d1
+      internalID: -1698359977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120.666664
+        width: 89.25
+        height: 120.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47913cc65aa5acc4da303ddb2d757cf6
+      internalID: 815323698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 120.666664
+        width: 89.25
+        height: 120.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cf462edc22e014d8e7dce122fdabcd
+      internalID: -1316868022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 120.666664
+        width: 89.25
+        height: 120.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15e48221310ceb42882702e98a3108d
+      internalID: 83881148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 120.666664
+        width: 89.25
+        height: 120.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5bdc2eb273eed4bb8a2e0eb310ad99
+      internalID: 240911705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.6666641
+        width: 89.25
+        height: 120.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714b88d194ab2704cae8cef8833cb641
+      internalID: -134974490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0.6666641
+        width: 89.25
+        height: 120.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba9cf05c58d6f94aa4d05d939e60f6f
+      internalID: -769068705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0.6666641
+        width: 89.25
+        height: 120.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed19567c4b032c44bb5246feee2299a
+      internalID: 1062309177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0.6666641
+        width: 89.25
+        height: 120.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d963e3f82a16fd045a5f140dbf9bf1dc
+      internalID: -639840759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_0: 36210310
+      pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_1: -1684146462
+      pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_10: 1062309177
+      pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_11: -639840759
+      pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_2: -1451537551
+      pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_3: -1698359977
+      pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_4: 815323698
+      pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_5: -1316868022
+      pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_6: 83881148
+      pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_7: 240911705
+      pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_8: -134974490
+      pngtree-skeleton-dance-animated-game-sprite-png-image_6394821_9: -769068705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
