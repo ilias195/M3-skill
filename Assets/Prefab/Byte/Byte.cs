@@ -6,9 +6,7 @@ using UnityEngine;
 public class Byte : MonoBehaviour
 {
     [SerializeField] Bit[] bits = new Bit[8];
-    public int value     = 0;
-
-
+    public int value = 0;
     void Update()
     {
         BinToDec();
@@ -128,5 +126,11 @@ public class Byte : MonoBehaviour
         }
 
     }
+    public string getHex()
+    {
+        return value.ToString("X2");
+    }
+
+
 }
 

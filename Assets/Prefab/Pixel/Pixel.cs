@@ -1,20 +1,24 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Pixel : MonoBehaviour
 {
     SpriteRenderer spriteRenderer;
-    public Color color = new Color(1,0,0,1);
-    // Start is called before the first frame update
+    public Color color = new Color(1, 0, 0, 1);
+
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
+        if (spriteRenderer == null)
+        {
+            Debug.LogError("Geen SpriteRenderer gevonden op dit GameObject!");
+        }
     }
 
-    // Update is called once per frame
     void Update()
     {
-        spriteRenderer.color = color;
+        if (spriteRenderer != null)
+        {
+            spriteRenderer.color = color;
+        }
     }
 }
