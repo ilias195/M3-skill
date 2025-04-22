@@ -18,6 +18,10 @@ public class MyPixel : MonoBehaviour
             spriteRenderer = Pixel.GetComponent<SpriteRenderer>();
         }
 
+        
+    }
+    private void Update()
+    {
         if (ByteR != null && ByteG != null && ByteB != null && Pixel != null)
         {
             colorCode = "#" + ByteR.getHex() + ByteG.getHex() + ByteB.getHex();

@@ -5,13 +5,14 @@ using UnityEngine;
 
 public class Bitmap : MonoBehaviour
 {
-    public Byte[] bites = new Byte[8];
+    public Byte[] bytes = new Byte[8];
+    public int[] values = new int[8];   
 
-    public void SetValues(int[] values)
+    void Update()
     {
-        for (int i = 0; i < bites.Length && i < values.Length; i++)
+        for (int i = 0; i < 8; i++)
         {
-            bites[i].SetValue(values[i]);
+            bytes[i].SetValue(values[i]);
         }
     }
 }
